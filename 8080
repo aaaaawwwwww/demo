@@ -1,0 +1,19 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2024-01-15T01:25:32.932Z  INFO 7 --- [           main] himedia.spring.ver1.DemoApplication      : Starting DemoApplication using Java 17.0.2 with PID 7 (/good/demo.jar started by root in /good)
+2024-01-15T01:25:32.935Z  INFO 7 --- [           main] himedia.spring.ver1.DemoApplication      : No active profile set, falling back to 1 default profile: "default"
+2024-01-15T01:25:33.761Z  INFO 7 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-01-15T01:25:33.770Z  INFO 7 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-15T01:25:33.771Z  INFO 7 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-15T01:25:33.800Z  INFO 7 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-15T01:25:33.801Z  INFO 7 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 789 ms
+2024-01-15T01:25:33.893Z  INFO 7 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-01-15T01:25:34.087Z  INFO 7 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-01-15T01:25:34.100Z  INFO 7 --- [           main] himedia.spring.ver1.DemoApplication      : Started DemoApplication in 1.486 seconds (process running for 1.832)
